@@ -18,3 +18,16 @@ Nessa primera parte ficou assim ...
 ![image](https://github.com/juniorroinujr/calcMedia_1.0/assets/168039056/cc8f94f8-31e7-4ad7-ba33-db46f9e16092)
 
 
+
+voltei a brincar com o código 
+
+
+![image](https://github.com/juniorroinujr/calcMedia_1.0/assets/168039056/aaf8a5c0-1bef-4fb2-992b-c1d9da3828ba)
+
+
+Quando termina de inserir as notas ele o programa gera um arquivo txt com o relatório do aluno
+
+![image](https://github.com/juniorroinujr/calcMedia_1.0/assets/168039056/0ac23986-9def-4e24-b31a-de2ffaab137e)
+
+
+
