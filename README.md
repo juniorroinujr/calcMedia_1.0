@@ -12,3 +12,9 @@
 • Estou vendo um pouco de ` front` também, mas não é meu objetivo principal.<br>
 • Vamos ao código.
 
+
+Nessa primera parte ficou assim ...
+
+![image](https://github.com/juniorroinujr/calcMedia_1.0/assets/168039056/cc8f94f8-31e7-4ad7-ba33-db46f9e16092)
+
+
