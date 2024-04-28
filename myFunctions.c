@@ -25,6 +25,7 @@ int collectData(int count)
 {
     sprintf(nameRelatory, "relatorio_aluno_%d.txt", count);
     char relatory[TAM];
+    char result[TAM];
     printf("Digite o nome do aluno: ");
     fgets(studentName, 50, stdin);
 
@@ -42,9 +43,19 @@ int collectData(int count)
 
     media = (n1 + n2 + n3)/3;
 
+    if(media >= 7.0){
+        strcpy(result, "\nAprovado.\n");
+    }else if(media >= 6.0){
+        strcpy(result, "\nRecuperação.\n");
+    }else{
+        strcpy(result, "\nReprovado.\n");
+    }
+
     sprintf(relatory, "A nota 01: %.2f\nA nota 02: %.2f\nA nota 03: %.2f\nMedia do aluno foi: %.2f", n1, n2, n3, media);
     strcat(studentName, relatory);
     strcpy(relatory, studentName);
+    strcat(relatory, result);
+    
 
     FILE *student = fopen(nameRelatory, "w");
     fprintf(student, "%s", relatory);

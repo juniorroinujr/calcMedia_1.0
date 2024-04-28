@@ -1,0 +1,6 @@
+mintiano
+A nota 01: 4.00
+A nota 02: 5.00
+A nota 03: 2.00
+Media do aluno foi: 3.67
+Reprovado.

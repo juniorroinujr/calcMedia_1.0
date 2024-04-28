@@ -1,0 +1,6 @@
+Debiano
+A nota 01: 6.00
+A nota 02: 7.00
+A nota 03: 6.00
+Media do aluno foi: 6.33
+Recuperação.
