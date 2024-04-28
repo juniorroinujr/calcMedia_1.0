@@ -18,8 +18,12 @@ static char usrChoice[TAM];
 static int lenUsrChoice = 0;
 static int i = 0;
 static char toEnter[TAM] = "sim";
+static char studentName[TAM];
+static char nameRelatory[TAM];
+static char exitMyProgram[TAM];
 
 
 //FUNCTIONS PROTOTYPES
 int viewScreenMyProgram();
 int exitOrNotMyProgram(char usrChoice[TAM]);
+int collectData(int count);

@@ -17,6 +17,8 @@ int main(int argc, char *argv[]){
             system("cowsay -f ghostbusters 'Volte sempre!'");
             break;
         }
+
+        collectData(count);
         
 
     }

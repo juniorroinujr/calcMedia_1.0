@@ -1,0 +1,5 @@
+roinujr
+A nota 01: 10.00
+A nota 02: 10.00
+A nota 03: 10.00
+Media do aluno foi: 10.00
